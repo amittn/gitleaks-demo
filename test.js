@@ -1,2 +1,3 @@
 This is just testing
-key = 'ACX12345XX'
+testings
+API-kEY = 'ACX12345XX'
